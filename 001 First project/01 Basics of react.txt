@@ -1,0 +1,9 @@
+What is react??  
+React calls itself a javascript library that allows us to create interfaces.Interfaces are the basic building block of react.
+React allows us 1)Display HTML 2)Dyanmically change that HTMl
+So we can create and display HTML according to our logic and change the html,which is basically the view of the application
+based on user input,some logic,etc.
+
+JSX
+it is javascript XML.It allows us to write HTML and Javascript together.This is done with the intention of having logic and UI work along to some extent.
+
